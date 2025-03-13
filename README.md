@@ -7,7 +7,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=simba950&show_icons=true" />
 </picture>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90" />
 <!--
 **simba950/simba950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
