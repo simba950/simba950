@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Hi,%20I'm%20Simba&fontSize=52" />
 <picture>
   <source
