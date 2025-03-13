@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=120&section=header&text=Hi,%20I'm%20Simba&fontSize=52" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=120&section=header&text=Hi,%20I'm%20Simba&fontSize=52&fontColor=ffffff" />
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=simba950&hide=contribs,prs&show_icons=true&theme=highcontrast"
