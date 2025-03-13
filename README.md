@@ -1,6 +1,6 @@
 ## Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=56&section=header&text=capsule%20render&fontSize=90" />
-![Simba950's GitHub stats](https://github-readme-stats.vercel.app/api?username=simba950&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simba950&hide=contribs,prs&show_icons=true&theme=highcontrast)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90" />
 <!--
